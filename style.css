@@ -1,0 +1,39 @@
+html {
+  font-family: sans-serif;
+}
+
+h2 {
+  margin-top:    0;
+  margin-bottom: 0;
+}
+
+a {
+  color:   #1d1d1d;
+}
+
+nav {
+  display:         flex;
+  justify-content: space-evenly;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+figure {
+  display:        flex;
+  flex-direction: column;
+  align-items:    center;
+}
+
+figcaption {
+  margin-top: 1em;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 4rem;
+  margin-bottom: 0;
+}
