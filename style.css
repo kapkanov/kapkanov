@@ -21,7 +21,7 @@ p {
 }
 
 figure {
-  max-width: 42rem;
+  max-width: 35rem;
   display:        flex;
   flex-direction: column;
   align-items:    center;
